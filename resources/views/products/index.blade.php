@@ -13,8 +13,8 @@
        {{session('success')}}
     </div>
     @endif
-    </div>
-    <div><a href="{{route('product.create')}}">create product</a></div>
+    </div><br><br>
+    <div><button><a href="{{route('product.create')}}">create product</a></button></div><br>
 
     <div>
         <table border="1">

@@ -23,19 +23,19 @@
         <div>
             <label>Name</label>
             <input type="text" name="name" placeholder="name"/>
-        </div>
+        </div></br>
         <div>
             <label>Qty</label>
             <input type="text" name="qty" placeholder="qty"/>
-        </div>
+        </div></br>
         <div>
             <label>Price</label>
             <input type="text" name="price" placeholder="price"/>
-        </div>
+        </div></br>
         <div>
             <label>Description</label>
             <input type="text" name="description" placeholder="description"/>
-        </div>
+        </div></br>
         <div>
             <input type="submit" value="save a new product"/>
         </div>
